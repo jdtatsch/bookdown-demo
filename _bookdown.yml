@@ -1,6 +1,5 @@
 book_filename: "bookdown-demo"
 language:
-chapter_name: "Chapter "
-repo: https://github.com/jdtatsch/bookdown-demo
-output_dir: docs
+  ui:
+    chapter_name: "Capítulo "
 delete_merged_file: true
