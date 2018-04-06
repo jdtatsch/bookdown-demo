@@ -5,9 +5,3 @@ _publish.R
 _book
 _bookdown_files
 rsconnect
-docs/*.html
-docs/*.pdf
-docs/*.epub
-docs/*.json
-docs/bookdown-demo_files
-docs/libs
